@@ -1,0 +1,5 @@
+[secrepo]
+name=secrepo
+baseurl=http://api.secsys.intra.sina.com.cn/secrepo/
+enabled=yes
+gpgcheck=no
